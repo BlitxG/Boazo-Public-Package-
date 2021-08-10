@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+:root {
+	/* COLORS */
+	
+	--clr-main: ;
+	--clr-accent: ;
+
+	/* PROPERTIES */
+
+	
+}
+
+body {
+	/* declarations */
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>css</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	 <scope>source.css</scope> 
+	</snippet>
