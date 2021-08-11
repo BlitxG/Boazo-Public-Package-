@@ -1,4 +1,4 @@
-# SNIPPET BOLIERPLATE # 
+## SNIPPET BOLIERPLATE ##
 
 <snippet>
 	<content><![CDATA[
